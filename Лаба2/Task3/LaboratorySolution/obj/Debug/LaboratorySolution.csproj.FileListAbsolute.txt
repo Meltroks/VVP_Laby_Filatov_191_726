@@ -1,0 +1,12 @@
+C:\Users\Meltroks\source\repos\LaboratorySolution\LaboratorySolution\bin\Debug\LaboratorySolution.exe
+C:\Users\Meltroks\source\repos\LaboratorySolution\LaboratorySolution\bin\Debug\LaboratorySolution.pdb
+C:\Users\Meltroks\source\repos\LaboratorySolution\LaboratorySolution\obj\Debug\LaboratorySolution.csprojResolveAssemblyReference.cache
+C:\Users\Meltroks\source\repos\LaboratorySolution\LaboratorySolution\obj\Debug\LaboratorySolution.csproj.CoreCompileInputs.cache
+C:\Users\Meltroks\source\repos\LaboratorySolution\LaboratorySolution\obj\Debug\LaboratorySolution.exe
+C:\Users\Meltroks\source\repos\LaboratorySolution\LaboratorySolution\obj\Debug\LaboratorySolution.pdb
+H:\Лабы C#\Лаба2\Task3\LaboratorySolution\bin\Debug\LaboratorySolution.exe
+H:\Лабы C#\Лаба2\Task3\LaboratorySolution\bin\Debug\LaboratorySolution.pdb
+H:\Лабы C#\Лаба2\Task3\LaboratorySolution\obj\Debug\LaboratorySolution.csprojResolveAssemblyReference.cache
+H:\Лабы C#\Лаба2\Task3\LaboratorySolution\obj\Debug\LaboratorySolution.csproj.CoreCompileInputs.cache
+H:\Лабы C#\Лаба2\Task3\LaboratorySolution\obj\Debug\LaboratorySolution.exe
+H:\Лабы C#\Лаба2\Task3\LaboratorySolution\obj\Debug\LaboratorySolution.pdb

@@ -1,0 +1,6 @@
+C:\Users\Meltroks\source\repos\LaboratorySolution\LaboratorySolution\bin\Debug\LaboratorySolution.exe
+C:\Users\Meltroks\source\repos\LaboratorySolution\LaboratorySolution\bin\Debug\LaboratorySolution.pdb
+C:\Users\Meltroks\source\repos\LaboratorySolution\LaboratorySolution\obj\Debug\LaboratorySolution.csprojResolveAssemblyReference.cache
+C:\Users\Meltroks\source\repos\LaboratorySolution\LaboratorySolution\obj\Debug\LaboratorySolution.csproj.CoreCompileInputs.cache
+C:\Users\Meltroks\source\repos\LaboratorySolution\LaboratorySolution\obj\Debug\LaboratorySolution.exe
+C:\Users\Meltroks\source\repos\LaboratorySolution\LaboratorySolution\obj\Debug\LaboratorySolution.pdb
